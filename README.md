@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Kushal 👋
 
-<!--
-**kushalkumar-creator/kushalkumar-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack web developer and 2nd-year B.E. Computer Science student at VTU, Bengaluru. I build and deploy real projects with React, Next.js and Node.js.
 
-Here are some ideas to get you started:
+## 🚀 What I'm building
+- **[Launchr](https://launchr-web-six.vercel.app)**: an open-source deployment platform (Next.js + Tailwind)
+- **[SnapCart](https://flashcart-xi.vercel.app)**: a quick-commerce e-commerce app
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech stack
+![JavaScript](https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,tailwind,mongodb,git,vercel)
+![Backend & more](https://skillicons.dev/icons?i=python,django,flask,laravel,docker,jenkins,aws)
+
+## 📫 Reach me
+- Email: kushalkumar5859@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/kushal-kumar-a19575329)
