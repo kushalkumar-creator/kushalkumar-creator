@@ -1,5 +1,5 @@
 # 💫 About Me:
-HI, I'm Kushal Kumar<br>Full Stact Developer<br>Building and Automating<br>Learning something new every day
+👋 HI, I'm Kushal Kumar<br>💻 Full Stact Developer<br>🤖 Building and Automating<br>🌱 Learning something new every day
 
 
 ## 🌐 Socials:
