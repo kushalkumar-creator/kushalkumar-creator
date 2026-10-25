@@ -18,5 +18,3 @@
 <p align="left">
   <img height="180" src="https://streak-stats.demolab.com/?user=kushalkumar-creator&theme=dark&hide_border=true" />
 </p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
