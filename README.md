@@ -1,6 +1,6 @@
 # Hi, I'm Kushal 👋
 
-Full-stack web developer and 2nd-year B.E. Computer Science student at VTU, Bengaluru. I build and deploy real projects with React, Next.js and Node.js.
+Full-stack web developer and 3rd-year B.E. Computer Science student. I build and deploy real projects with React, Next.js and Node.js.
 
 ## 🚀 What I'm building
 - **[Launchr](https://launchr-web-six.vercel.app)**: an open-source deployment platform (Next.js + Tailwind)
